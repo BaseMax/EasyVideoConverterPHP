@@ -9,8 +9,8 @@ So i write a script to did all these automaticly.
 
 ## Using
 
-- `git clone https://github.com/BaseMax/EasyVideoConverter`
-- `cd EasyVideoConverter`
+- `git clone https://github.com/BaseMax/EasyVideoConverterPHP`
+- `cd EasyVideoConverterPHP`
 - Put all of your video at EasyVideoConverter directory
 - Finally, run `php EasyVideoConverter.php`
 - After some times, you will see **MP4** files.
