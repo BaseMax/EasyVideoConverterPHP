@@ -1,4 +1,4 @@
-# Easy Video Converter/Compressor
+# Easy Video Converter/Compressor (PHP)
 
 A tiny PHP-based script to convert and compress all **Video files** at current directly using **FFMPEG** tool. (God of video converters)
 
