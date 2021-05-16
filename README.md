@@ -4,7 +4,7 @@ A tiny PHP-based script to convert and compress all **Video files** at current d
 
 ## Purpose
 
-We held some science conference and what problem we was is to convert/compress all of conference videos, and it's was hard for handly do this.
+We held some science conference and what problem we was is to convert/compress all of conference videos, and it's was hard to handly do this.
 So i write a script to did all these automaticly.
 
 ## Using
