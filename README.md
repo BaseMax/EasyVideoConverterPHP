@@ -15,4 +15,6 @@ So i write a script to did all these automaticly.
 - Finally, run `php EasyVideoConverter.php`
 - After some times, you will see **MP4** files.
 
+Many thanks from FFMPEG creator. (Fabrice Bellard)
+
 © Copyright 2021, Max Base
